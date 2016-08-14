@@ -1,0 +1,2 @@
+# NewComerSettings
+幸せの国に新しい人を追加するときの手順とか

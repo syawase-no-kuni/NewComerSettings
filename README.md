@@ -6,6 +6,7 @@
 * GoogleDriveに招待する
 * Discordに招待する
 * GitHubのアカウントを作成し、チームに招待する
+* SourceTree用意してもらう
 
 ## GoogleDriveに招待する
 
@@ -23,3 +24,7 @@
 * [syawase-no-kuniチームのTeamMembersページ](https://github.com/orgs/syawase-no-kuni/people)を開く
 * 「Invite memver」からユーザーを追加する
 
+## SourceTree用意してもらう(Gitについて知ってるならなんでも良い)
+
+* [SourceTree](https://ja.atlassian.com/software/sourcetree)
+* 頑張ってアカウント作る
